@@ -12,7 +12,7 @@ redirect_from:
 
 # 👨‍🎓About
 
-**Hao Zhou** is a Sophomore student in the Division of Automation at South China University of Technology. His research interesets include Efficient ML(eg. pruning, distillation) and many topics in Computer Vision.
+**Hao Zhou** is a Sophomore student in the Division of Automation at South China University of Technology. His research interesets include Efficient ML(eg. pruning, distillation) and various topics in Computer Vision(eg. Gait Recognition).
 
 Outside of his academic life, he enjoys jogging and playing football a lot. He grew up in HengYang, a historical city in Hunan proviince, China.
 
