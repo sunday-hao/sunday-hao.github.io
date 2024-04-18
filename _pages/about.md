@@ -1,11 +1,15 @@
 ---
 permalink: /
-title: "Welcome to Hao Zhou's homepage!!!"
+title: "Welcome to Hao Zhou's homepage!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<!--{% include toc %} -->
+---
+
 # 👨‍🎓About
 
 **Hao Zhou** is a Sophomore student in the Division of Automation at South China University of Technology. His research interesets include Efficient ML(eg. pruning, distillation) and many topics in Computer Vision.
