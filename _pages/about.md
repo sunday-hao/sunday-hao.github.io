@@ -32,6 +32,6 @@ Please find his CV [here](../files/CV.pdf "Hao Zhou's CV"){:target="_blank"}.
 
 
 # 🏅Honors and Awards
-- Second Prize, 2023 China Undergraduate Engineering Practice And Innovation Ability Competition, GuangDong
+- Second Prize, 2023 China Undergraduate Engineering Practice And Innovation Ability Competition, Guangdong province
 
 
