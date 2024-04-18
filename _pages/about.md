@@ -32,7 +32,21 @@ Please find his CV [here](../files/CV.pdf "Hao Zhou's CV"){:target="_blank"}.
 
 
 # 🏅Honors and Awards
+
 - Second Prize, 2023 China Undergraduate Engineering Practice And Innovation Ability Competition, Guangdong province
 - Open Source Award, 2023 Intramural Robot Competition 
+
+
+# 🔧Skills
+
+- Programming: Python, Matlab, C++ 
+- Systems: Linux 
+- Languages: (Mandarin) Chinese, English 
+
+
+# 📷Gallery
+
+
+---
 
 
