@@ -27,11 +27,12 @@ Please find his CV [here](../files/CV.pdf "Hao Zhou's CV"){:target="_blank"}.
 
 
 # 📃Articles 
- Not yet. :( 
- But I am actively working on a project related to Gait Recognition instructed by [Prof. Wenxiong Kang](https://yanzhao.scut.edu.cn/open/ExpertInfo.aspx?zjbh=uEEiNVSAKPm0dfrODLtrzQ==  "Prof. Wenxiong Kang"), you can contact me if you are interested. :)
+  Not yet :(
+  But I am actively working on a project related to Gait Recognition instructed by [Prof. Wenxiong Kang](https://yanzhao.scut.edu.cn/open/ExpertInfo.aspx?zjbh=uEEiNVSAKPm0dfrODLtrzQ==  "Prof. Wenxiong Kang"), you can contact me if you are interested :)
 
 
 # 🏅Honors and Awards
 - Second Prize, 2023 China Undergraduate Engineering Practice And Innovation Ability Competition, Guangdong province
+- Open Source Award, 2023 Intramural Robot Competition 
 
 
