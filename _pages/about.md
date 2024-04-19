@@ -51,16 +51,17 @@ Please find his CV [here](../files/CV.pdf "Hao Zhou's CV"){:target="_blank"}.
     <img style = "
             border-radius: 0.3125em;
             box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-            src = "../images/tiehua.png" 
+            src = "../images/tiehua.jpg" 
             width = "30%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/shu.png" 
+        src = "../images/shu.jpg" 
         width = "30%">
     <p></p>
 </center>
 
 ---
 
+<a href="http://s11.flagcounter.com/more/Fbx"><img src="https://s11.flagcounter.com/map/Fbx/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
