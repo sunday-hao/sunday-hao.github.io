@@ -1,7 +1,7 @@
 ---
 # layout: archive # too wide
-title: "Interests"
-permalink: /Interests/
+title: "Hobbies"
+permalink: /Hobbies/
 author_profile: true
 ---
 
