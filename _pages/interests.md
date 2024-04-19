@@ -122,6 +122,7 @@ author_profile: true
         color: #999;
         padding: 2px;">
     </div>
+    Travel around
     <p> </p>
 </center>
 
