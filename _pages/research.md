@@ -9,7 +9,7 @@ author_profile: true
 <!--{% include toc %} -->
 ---
 
-# Research Interets 
+# Research Interests 
 
 1. Efficient ML: 
    - Pruning 
