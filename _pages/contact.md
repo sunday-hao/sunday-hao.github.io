@@ -1,7 +1,7 @@
 ---
 # layout: archive # too wide
 title: "Contact"
-permalink: /contact/
+permalink: /Contact/
 author_profile: true
 ---
 

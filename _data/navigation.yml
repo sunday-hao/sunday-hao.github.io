@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "research"
-    url: /research/
+  - title: "Research"
+    url: /Research/
 
   - title: "Hobbies"
     url: /Hobbies/    
     
-  - title: "contact"
-    url: /contact/
+  - title: "Contact"
+    url: /Contact/

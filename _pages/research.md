@@ -1,7 +1,7 @@
 ---
 # layout: archive # too wide
 title: "Hao Zhou's Research Page"
-permalink: /research/
+permalink: /Research/
 author_profile: true
 ---
 
