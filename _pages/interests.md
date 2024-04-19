@@ -23,7 +23,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 2px;">
-        After a tiring football match, with my teammate, autumn 2021
+        after a tiring football match, with my teammate, autumn 2021
     </div>
     <p> </p>
 </center>
