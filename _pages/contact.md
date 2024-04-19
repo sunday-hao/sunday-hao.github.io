@@ -15,4 +15,4 @@ author_profile: true
 Hao Zhou \
 Division of Automation \
 WuShan Campus, South China University of Technology\
-Providence, Guang Dong, China 
+Guang Dong, China 
