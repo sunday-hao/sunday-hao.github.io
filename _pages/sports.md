@@ -51,33 +51,33 @@ author_profile: true
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../images/hangmo1.jpg" 
-        width = "60%">
+        width = "49%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../images/hangmo2.jpg" 
-        width = "60%">
+        width = "49%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../images/hangmo3.jpg" 
-        width = "60%">
+        width = "49%">
     <br>
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../images/hangmo4.jpg" 
-        width = "60%">
+        width = "49%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../images/hangmo5.jpg" 
-        width = "60%">
+        width = "49%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../images/hangmo6.jpg" 
-        width = "60%">
+        width = "49%">
     <br>
     <div style = "
         color: orange;
