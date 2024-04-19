@@ -1,7 +1,7 @@
 ---
 # layout: archive # too wide
-title: "Sports"
-permalink: /sports/
+title: "Interests"
+permalink: /Interests/
 author_profile: true
 ---
 
@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-# Photos 
+# Activities
 <center>
     <img style = "
         border-radius: 0.3125em;
