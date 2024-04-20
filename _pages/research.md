@@ -25,11 +25,11 @@ author_profile: true
 
 ## 1. Intern at Biometrics Pattern Recognition and Perception Lab
 
-SUperVisor: [Prof. Wenxiong Kang](https://yanzhao.scut.edu.cn/open/ExpertInfo.aspx?zjbh=uEEiNVSAKPm0dfrODLtrzQ== "Prof. Wenxoing Kang"){:target="_blank"} (IEEE fellow)
+SuperVisor: [Prof. Wenxiong Kang](https://yanzhao.scut.edu.cn/open/ExpertInfo.aspx?zjbh=uEEiNVSAKPm0dfrODLtrzQ== "Prof. Wenxiong Kang"){:target="_blank"} (IEEE fellow)
 
 09/2023 - Present
 
-In the first four months, I mainly learn the fundamental of ML and DL. After that, I began to read and reproduce top papers in the field of Gait Recognition. To get More knowledge, I finished [MIT 6.5940](https://efficientml.ai "MIT 6.5940")
+In the first four months, I mainly learn the fundamental of ML and DL. After that, I began to read and reproduce top papers in the field of Gait Recognition. To gain more knowledge, I finished [MIT 6.5940](https://efficientml.ai "MIT 6.5940"). And now, I am working on a project collaborating with Prof. Kang, aiming to accelerate gait models more efficient.
 ## 2. Artificial Intelligence and Machine Learning Program
 
 *Summer School at NUS*
