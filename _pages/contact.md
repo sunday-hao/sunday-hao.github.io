@@ -11,7 +11,7 @@ author_profile: true
 
 
 
-📫**Address**: \
+📫**Mail**: \
 Hao Zhou \
 Division of Automation \
 WuShan Campus, South China University of Technology\
