@@ -29,7 +29,7 @@ SUperVisor: [Prof. Wenxiong Kang](https://yanzhao.scut.edu.cn/open/ExpertInfo.as
 
 09/2023 - Present
 
-
+In the first four months, I mainly learn the fundamental of ML and DL. After that, I began to read and reproduce top papers in the field of Gait Recognition. To get More knowledge, I finished [MIT 6.5940](https://efficientml.ai "MIT 6.5940")
 ## 2. Artificial Intelligence and Machine Learning Program
 
 *Summer School at NUS*
