@@ -11,14 +11,13 @@ author_profile: true
 
 # Research Interests 
 
-1. Efficient ML: 
+1. Computer Vision: 
+   - Gait Recognition
+2. Embodied AI
+3. Reinforcement Learning
+4. Efficient ML: 
    - Pruning 
    - Distillation 
-   - Quantization
-2. Computer Vision: 
-   - Gait Recognition
-3. Embodied AI
-
 ---
 
 # Research Experience
