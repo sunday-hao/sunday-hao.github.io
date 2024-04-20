@@ -32,7 +32,7 @@ SuperVisor: [Prof. Wenxiong Kang](https://yanzhao.scut.edu.cn/open/ExpertInfo.as
 In the first four months, I mainly learn the fundamental of ML and DL. After that, I began to read and reproduce top papers in the field of Gait Recognition. To gain more knowledge, I finished [MIT 6.5940](https://efficientml.ai "MIT 6.5940"). And now, I am working on a project collaborating with Prof. Wenxiong Kang, aiming to make models in gait recognition more efficient. Please feel free to contact me if you are interested. 
 ## 2. Artificial Intelligence and Machine Learning Program
 
-*Summer School at NUS*
+*Summer School, NUS*
 
 Supervisor: [Lect. Prabhu Natarajan](https://www.comp.nus.edu.sg/cs/people/prabhu/ "Lect. Prabhu Natarajan"){:target="_blank"}
 
