@@ -24,6 +24,7 @@ Please find my CV [here](../files/Hao Zhou.pdf "Hao Zhou's CV"){:target="_blank"
 - 09/2022 ~ Present: <img src="../images/School of Automation.PNG" style="height: 1.1em"> [School of Automation Science and Engineering](https://www2.scut.edu.cn/automation/ "SCUT, AU"){:target="_blank"}, <img src="../images/xiaohui.PNG" style="height: 1.1em"> [South China University of Technology](https://www.scut.edu.cn/ "SCUT"){:target="_blank"} 
     - Sophomore in *Automation* 
     - GPA: 3.7/4.0
+    - Selected Course: Calculus I,II(4.0, 4.0)/4.0, Linear Algebra(4.0/4.0), Data structure and Algorithm(3.7/4.0)
 
 
 # 📃Articles 
