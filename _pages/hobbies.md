@@ -41,7 +41,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 2px;">
-        mark thbe unforgettable moment, spring 2023
+        mark the unforgettable moment, spring 2023
     </div>
     <p> </p>
 </center>
