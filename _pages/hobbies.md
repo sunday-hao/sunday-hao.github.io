@@ -15,7 +15,7 @@ author_profile: true
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../images/gaozhong.jpg" 
-        width = "60%">
+        width = "80%">
     <br>
     <div style = "
         color: orange;
@@ -23,7 +23,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 2px;">
-        after a tiring football match, with my teammate, autumn 2021
+        won a football match, with my teammate, autumn 2021
     </div>
     <p> </p>
 </center>
@@ -33,7 +33,7 @@ author_profile: true
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../images/daxue.jpg" 
-        width = "60%">
+        width = "80%">
     <br>
     <div style = "
         color: orange;
@@ -41,8 +41,43 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 2px;">
-        after an amazing football match, with my teammate, spring 2023
+        mark thbe unforgettable moment, spring 2023
     </div>
+    <p> </p>
+</center>
+
+# 🌏Travel
+<center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../images/changsha.jpg" 
+        width = "49%">
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../images/guangzhou.jpg" 
+        width = "49%">
+    <br>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../images/wuhan.jpg" 
+        width = "49%">
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../images/xinjiapo.jpg" 
+        width = "49%">
+    <br>
+    <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+    </div>
+    Travel around
     <p> </p>
 </center>
 
@@ -90,39 +125,3 @@ author_profile: true
     </div>
     <p> </p>
 </center>
-
-# 🌏Travel
-<center>
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/changsha.jpg" 
-        width = "49%">
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/guangzhou.jpg" 
-        width = "49%">
-    <br>
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/wuhan.jpg" 
-        width = "49%">
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/xinjiapo.jpg" 
-        width = "49%">
-    <br>
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-    </div>
-    Travel around
-    <p> </p>
-</center>
-
