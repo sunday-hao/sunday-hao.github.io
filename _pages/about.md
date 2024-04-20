@@ -14,7 +14,7 @@ redirect_from:
 
 **Hao Zhou** is a Sophomore student in the Division of Automation at South China University of Technology. His research interesets include Efficient ML(eg. pruning, distillation) and various topics in Computer Vision(eg. Gait Recognition).
 
-Outside of his academic life, he enjoys jogging and playing football a lot. He grew up in HengYang, a historical city in Hunan proviince, China.
+Outside of his academic life, he enjoys jogging and playing football a lot. He grew up in HengYang, a centuried city in Hunan province, China.
 
 Please find his CV [here](../files/CV.pdf "Hao Zhou's CV"){:target="_blank"}.
 
@@ -40,7 +40,7 @@ Please find his CV [here](../files/CV.pdf "Hao Zhou's CV"){:target="_blank"}.
 # 🔧Skills
 
 - Programming: Python, Matlab, C++ 
-- Systems: Linux 
+- System: Linux 
 - Languages: (Mandarin) Chinese, English 
 
 ---
@@ -52,12 +52,12 @@ Please find his CV [here](../files/CV.pdf "Hao Zhou's CV"){:target="_blank"}.
             border-radius: 0.3125em;
             box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
             src = "../images/tiehua.jpg" 
-            width = "50%">
+            width = "70%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../images/shu.jpg" 
-        width = "50%">
+        width = "70%">
     <p></p>
 </center>
 
