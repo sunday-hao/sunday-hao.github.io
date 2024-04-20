@@ -14,7 +14,7 @@ redirect_from:
 
 **Hao Zhou** is a Sophomore student in the Division of Automation at South China University of Technology. His research interesets include Efficient ML(eg. pruning, distillation) and various topics in Computer Vision(eg. Gait Recognition).
 
-Outside of his academic life, he enjoys jogging and playing football a lot. He grew up in HengYang, a centuried city in Hunan province, China.
+Outside of his academic life, he enjoys jogging and playing football a lot. He grew up in Hengyang, a centuried city in Hunan province, China.
 
 Please find his CV [here](../files/CV.pdf "Hao Zhou's CV"){:target="_blank"}.
 
