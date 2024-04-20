@@ -16,7 +16,7 @@ redirect_from:
 
 Outside of his academic life, he enjoys jogging and playing football a lot. He grew up in Hengyang, a centuried city in Hunan province, China.
 
-Please find his CV [here](../files/CV.pdf "Hao Zhou's CV"){:target="_blank"}.
+Please find his CV [here](../files/Hao Zhou.pdf "Hao Zhou's CV"){:target="_blank"}.
 
 
 # 🎓Education 

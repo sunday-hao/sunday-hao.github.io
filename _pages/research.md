@@ -17,7 +17,7 @@ author_profile: true
    - Quantization
 2. Computer Vision: 
    - Gait Recognition
-   -  
+   - 
 
 ---
 
