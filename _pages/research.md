@@ -38,4 +38,4 @@ Supervisor: [Lect. Prabhu Natarajan](https://www.comp.nus.edu.sg/cs/people/prabh
 
 07/2023, NUS
 
-In this program, we mainly focusing on ML algorithms in the sklearn library, such as Random Forest, Decision Tree, and two vision patterns, Local Binary Pattern(LBP) and HOG Moreover, I got a *Distinction* grade in the final presentation.
+In this program, we mainly focusing on ML algorithms in the sklearn library, such as Random Forest, Decision Tree. Also, we learns two vision patterns, Local Binary Pattern(LBP) and HOG. Eventually, I got a *Distinction* grade in the final presentation.
