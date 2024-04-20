@@ -13,7 +13,7 @@ author_profile: true
 
 1. Efficient ML: 
    - Pruning 
-   - Explanation and Theory of Distillation 
+   - Distillation 
    - Quantization
 2. Computer Vision: 
    - Gait Recognition
