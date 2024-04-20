@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-# Activities
+# ⚽Activities
 <center>
     <img style = "
         border-radius: 0.3125em;
@@ -91,7 +91,7 @@ author_profile: true
     <p> </p>
 </center>
 
-# Travel
+# 🌏Travel
 <center>
     <img style = "
         border-radius: 0.3125em;
