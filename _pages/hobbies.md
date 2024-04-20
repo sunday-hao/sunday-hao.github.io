@@ -126,3 +126,15 @@ author_profile: true
     </div>
     <p> </p>
 </center>
+
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QK7P3J622K"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QK7P3J622K');
+</script>
+</head>
