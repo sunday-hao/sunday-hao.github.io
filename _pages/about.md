@@ -35,7 +35,7 @@ Please find my CV [here](../files/Hao Zhou.pdf "Hao Zhou's CV"){:target="_blank"
 
 - Second Prize, 2023 China Undergraduate Engineering Practice And Innovation Ability Competition, Guangdong province
 - Open Source Award, 2023 Intramural Robot Competition 
-- Second Prize
+- Second Prize, the 3rd Hunan Youth Creative Programming and Intelligent Design Competition
 
 
 # 🔧Skills
