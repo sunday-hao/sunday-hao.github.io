@@ -20,3 +20,20 @@ author_profile: true
    -  
 
 ---
+
+# Research Experience
+
+## 1. Intern at Biometrics Pattern Recognition and Perception Lab
+
+SUperVisor: [Prof. Wenxiong Kang](https://yanzhao.scut.edu.cn/open/ExpertInfo.aspx?zjbh=uEEiNVSAKPm0dfrODLtrzQ== "Prof. Wenxoing Kang"){:target="_blank"} (IEEE fellow)
+
+09/2023 - Present
+
+
+## 2. Artificial Intelligence and Machine Learning Program
+
+*Summer School at NUS*
+
+Supervisor: [Lect. Prabhu Natarajan](https://www.comp.nus.edu.sg/cs/people/prabhu/ "Lect. Prabhu Natarajan"){:target="_blank"}
+
+07/2023, NUS
