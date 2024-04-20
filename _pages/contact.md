@@ -15,5 +15,5 @@ author_profile: true
 Hao Zhou \
 Division of Automation \
 WuShan Campus, South China University of Technology\
-381, Wushan Street
+381, Wushan Street \
 Guangdong, China 
