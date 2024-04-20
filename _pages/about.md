@@ -12,7 +12,7 @@ redirect_from:
 
 # 👨‍🎓About
 
-**Hao Zhou** is a Sophomore student in the Division of Automation at South China University of Technology. My research interests broadly lie in Computer Vision and Efficient ML, Robotics. Eager to make a difference in the future. Recently I work on a project about Gait Recognition, Knowledge Distillation and Pruning.
+**Hao Zhou** is a Sophomore student in the Division of Automation at South China University of Technology. My research interests broadly lie in Computer Vision and Efficient ML, Robotics. Recently I work on a project about Gait Recognition, Knowledge Distillation and Pruning.
 
 Outside of my academic life, I enjoy hiking, jogging and playing football a lot. I grew up in Hengyang, a centuried city in Hunan province, China.
 
