@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-# ⚽Activities
+# 📸Photos
 <center>
     <img style = "
         border-radius: 0.3125em;
