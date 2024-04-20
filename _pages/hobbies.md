@@ -1,6 +1,6 @@
 ---
 # layout: archive # too wide
-title: "Hobbies"
+title: "Miscellaneous"
 permalink: /Miscellaneous/
 author_profile: true
 ---
