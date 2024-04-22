@@ -122,7 +122,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 2px;">
-        admire model planes, spring 2024
+        powerful model planes, spring 2024
     </div>
     <p> </p>
 </center>
