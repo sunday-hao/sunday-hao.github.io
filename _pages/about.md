@@ -29,7 +29,7 @@ Please find my CV [here](../files/Hao Zhou.pdf "Hao Zhou's CV"){:target="_blank"
 
 # 📃Articles 
   Not yet :( \
-  But I am actively working on a project related to Gait Recognition instructed by [Prof. Wenxiong Kang](https://yanzhao.scut.edu.cn/open/ExpertInfo.aspx?zjbh=uEEiNVSAKPm0dfrODLtrzQ==  "Prof. Wenxiong Kang"), you can contact me freely if you are interested :)
+  But I am actively working on a project related to Gait Recognition and Knowledge Distillation instructed by [Prof. Wenxiong Kang](https://yanzhao.scut.edu.cn/open/ExpertInfo.aspx?zjbh=uEEiNVSAKPm0dfrODLtrzQ==  "Prof. Wenxiong Kang"), you can contact me freely if you are interested :)
 
 
 # 🏅Honors and Awards
