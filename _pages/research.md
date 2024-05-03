@@ -11,10 +11,10 @@ author_profile: true
 
 # Research Interests 
 
-1. Computer Vision: 
-   - Gait Recognition
+1. Computer Vision(including various topics)
 2. Embodied AI
 3. Reinforcement Learning
+4. Generative Learning
 4. Efficient ML: 
    - Pruning 
    - Distillation 
