@@ -28,8 +28,8 @@ Please find my CV [here](../files/周浩+19958985988.pdf "Hao Zhou's CV"){:targe
 
 # News
 
-[09/10/2024]I get an internship at [ShangHai AI Lab](https://www.shlab.org.cn/). \
-[09/02/2024]Bronze Prize in VISION 24 Data Challenge - One Shot Industrial Defect Segmentation, organized by 2nd ECCV workshop on Vision-based InduStrial InspectiON (VISION).
+[09/10/2024] I get an internship at [ShangHai AI Lab](https://www.shlab.org.cn/). \
+[09/02/2024] Bronze Prize in VISION 24 Data Challenge - One Shot Industrial Defect Segmentation, organized by 2nd ECCV workshop on Vision-based InduStrial InspectiON (VISION).
 
 # 📃Articles 
   Not yet :( \
