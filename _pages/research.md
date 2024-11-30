@@ -24,7 +24,7 @@ author_profile: true
 ## 1. Shanghai Artificial Intelligence Laboratory
 
 Research Intern @ [OpenGVLab](https://github.com/OpenGVLab), 09/2024 - Present, ShangHai \
-SuperVisor:[Yu Cheng](https://ych133.github.io/)
+SuperVisor: [Prof. Yu Cheng](https://ych133.github.io/)
 
 ## 1. South China University of Technology
 
