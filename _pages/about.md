@@ -12,7 +12,7 @@ redirect_from:
 
 # 👨‍🎓About
 
-**Hao Zhou** is a Sophomore student in the Division of Automation at South China University of Technology(SCUT). My research interests broadly lie in Computer Vision, Efficient ML and GenAI. To study further, I am seeking an opportunity to intern at place I am interested in, or collaborate with others. If it does come, I will not waste it because I know it is not easy.  
+I am a Junior student in the Division of Automation at South China University of Technology(SCUT). My research interests broadly lie in Computer Vision, Efficient ML and GenAI. To study further, I am seeking an opportunity to intern at place I am interested in, or collaborate with others. If it does come, I will not waste it because I know it is not easy.  
 
 Outside of my academic life, I enjoy hiking, jogging and playing football a lot. I grew up in Hengyang, a centuried city in Hunan province, China.
 
