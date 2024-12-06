@@ -16,7 +16,7 @@ I am a Junior student in the Division of Automation at South China University of
 
 Outside of my academic life, I enjoy hiking, jogging and playing football a lot. I grew up in Hengyang, a centuried city in Hunan province, China.
 
-Please find my CV [here](../files/周浩+19958985988.pdf "Hao Zhou's CV"){:target="_blank"}.
+<!-- Please find my CV [here](../files/周浩+19958985988.pdf "Hao Zhou's CV"){:target="_blank"}. -->
 
 
 # 🎓Education 
