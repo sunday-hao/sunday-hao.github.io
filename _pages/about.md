@@ -12,7 +12,7 @@ redirect_from:
 
 # 👨‍🎓About
 
-I am a Junior student in the Division of Automation at South China University of Technology(SCUT). My research interests broadly lie in Computer Vision, Efficient ML and GenAI. To study further, I am seeking an opportunity to intern at place I am interested in, or collaborate with others. If it does come, I will not waste it because I know it is not easy.  
+I am a Junior student in the Division of Automation at South China University of Technology(SCUT). My research interests broadly lie in Computer Vision, Efficient ML and GenAI. To study further, I am seeking an opportunity to intern at place I am interested in, or collaborate with others. If it does come, I will not waste it because I know it comes not easy.  
 
 Outside of my academic life, I enjoy hiking, jogging and playing football a lot. I grew up in Hengyang, a centuried city in Hunan province, China.
 
@@ -33,7 +33,7 @@ Please find my CV [here](../files/周浩+19958985988.pdf "Hao Zhou's CV"){:targe
 
 # 📃Articles 
   Not yet :( \
-  But I am actively working on a project related to NLP, you can contact me free if you are interested :).
+  But I am actively working on a project related to LLM, you can contact me free if you are interested :).
 
 
 # 🏅Honors and Awards
