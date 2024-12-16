@@ -26,14 +26,14 @@ author_profile: true
 Research Intern @ [OpenGVLab](https://github.com/OpenGVLab), 09/2024 - Present, Shanghai \
 SuperVisor: [Prof. Yu Cheng](https://ych133.github.io/)
 
-## 1. South China University of Technology
+## 2. South China University of Technology
 
 Intern, 09/2023 - 05/2024, Biometrics and Intelligence Perception Lab, Guangzhou \
 SuperVisor: [Prof. Wenxiong Kang](https://yanzhao.scut.edu.cn/open/ExpertInfo.aspx?zjbh=uEEiNVSAKPm0dfrODLtrzQ== "Prof. Wenxiong Kang"){:target="_blank"} (IEEE fellow)
 
 To study further, I actively applied an intern of my school's lab. In the first four months, I mainly learn the fundamental of ML and DL. After that, I began to read and reproduce top papers in the field of Gait Recognition and Knowledge Distillation. To gain more knowledge, I also finished [MIT 6.5940:Efficient ML](https://efficientml.ai "MIT 6.5940"). And now, I am working on a project collaborating with Prof. Wenxiong Kang, aiming to make models in gait recognition more efficient. Please feel free to contact me if you are interested. 
 
-## 2. National University of Singapore
+## 3. National University of Singapore
 
 07/2023, Artificial Intelligence and Machine Learning Program, Singapore \
 Supervisor: [Lect. Prabhu Natarajan](https://www.comp.nus.edu.sg/cs/people/prabhu/ "Lect. Prabhu Natarajan"){:target="_blank"}
