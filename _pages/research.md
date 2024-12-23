@@ -11,7 +11,9 @@ author_profile: true
 
 # Research Interests 
 
-1. Computer Vision(including various topics)
+1. Computer Vision:
+   - Segmentation
+   - Multi-Modality
 2. Generative AI
 3. Efficient ML: 
    - Pruning
