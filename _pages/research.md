@@ -16,6 +16,7 @@ author_profile: true
    - Multi-Modality
 2. Generative AI
 3. Efficient ML: 
+   - MoE
    - Pruning
    - Distillation 
 
