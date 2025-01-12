@@ -28,6 +28,7 @@ author_profile: true
 Research Intern @ [OpenGVLab](https://github.com/OpenGVLab), 09/2024 - Present, Shanghai \
 SuperVisor: [Prof. Yu Cheng](https://ych133.github.io/)
 
+
 ## 2. South China University of Technology
 
 Intern, 09/2023 - 05/2024, Biometrics and Intelligence Perception Lab, Guangzhou \
