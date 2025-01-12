@@ -12,7 +12,7 @@ redirect_from:
 
 # 👨‍🎓About
 
-I am a Junior student in the Division of Automation at South China University of Technology(SCUT). My research interests focus on efficient learning and generative models in the fields of Computer Vision, Natural Language Processing. To study further, I am seeking an opportunity to intern at place I am interested in. If it does come, I will not waste it because I know it comes not easy.  
+I am a Junior student in the Division of Automation at South China University of Technology. My research interests focus on efficient learning and generative models in the fields of Computer Vision, Natural Language Processing. To study further, I am seeking an opportunity to intern at place I am interested in. If it does come, I will not waste it because I know it comes not easy.  
 
 Outside of my research, I enjoy hiking, jogging and playing football a lot. I grew up in Hengyang, a centuried city in Hunan province, China.
 
