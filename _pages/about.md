@@ -28,7 +28,7 @@ To study further, I am seeking an opportunity to intern at place I am interested
 
 # News
 
-[09/10/2024] I get an internship at [ShangHai AI Lab](https://www.shlab.org.cn/). \
+[09/10/2024] I get an internship at [Shanghai AI Lab](https://www.shlab.org.cn/). \
 [09/02/2024] We win the 3rd place in One Shot Industrial Defect Segmentation Challenge (ECCV2024)!
 
 <!--
