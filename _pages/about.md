@@ -16,7 +16,7 @@ I am a Junior student in the Division of Automation at South China University of
 
 To study further, I am seeking an opportunity to intern at place I am interested in. If it does come, I will not waste it because I know it comes not easy. Besides, I also enjoy hiking, jogging and playing football a lot.
 
-<!-- Please find my CV [here](../files/周浩+19958985988.pdf "Hao Zhou's CV"){:target="_blank"}. -->
+Please find my CV [here](../files/Resume_Hao.pdf "Hao Zhou's CV"){:target="_blank"}.
 
 
 # 🎓Education 
