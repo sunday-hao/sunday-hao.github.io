@@ -12,9 +12,9 @@ redirect_from:
 
 # 👨‍🎓About
 
-I am a Junior student in the Division of Automation at South China University of Technology and I am a research intern under the supervision of [Prof. Yu Cheng](https://ych133.github.io/). My research interests focus on efficient learning and generative models in the fields of Computer Vision, Natural Language Processing. To study further, I am seeking an opportunity to intern at place I am interested in. If it does come, I will not waste it because I know it comes not easy.  
+I am a Junior student in the Division of Automation at South China University of Technology and I am a research intern under the supervision of [Prof. Yu Cheng](https://ych133.github.io/). My research interests focus on efficient learning and generative models in the fields of Computer Vision, Natural Language Processing.
 
-Outside of my research, I enjoy hiking, jogging and playing football a lot. I grew up in Hengyang, a centuried city in Hunan province, China.
+To study further, I am seeking an opportunity to intern at place I am interested in. If it does come, I will not waste it because I know it comes not easy. And outside of my research, I enjoy hiking, jogging and playing football a lot. I grew up in Hengyang, a centuried city in Hunan province, China.
 
 <!-- Please find my CV [here](../files/周浩+19958985988.pdf "Hao Zhou's CV"){:target="_blank"}. -->
 
