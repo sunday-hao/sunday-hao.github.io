@@ -14,11 +14,10 @@ author_profile: true
 1. Computer Vision:
    - Segmentation
    - Multi-Modality
-2. Generative AI
-3. Efficient ML: 
+2. Efficient ML: 
    - MoE
-   - Pruning
-   - Distillation 
+   - Distillation
+3. Generative AI 
 
 ---
 
