@@ -44,7 +44,6 @@ Outside of my research, I enjoy hiking, jogging and playing football a lot. I gr
 - Open Source Award, 2023 Intramural Robot Competition 
 - Second Prize, the 3rd Hunan Youth Creative Programming and Intelligent Design Competition
 
-
 <head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-QK7P3J622K"></script>
