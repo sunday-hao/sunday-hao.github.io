@@ -12,11 +12,14 @@ redirect_from:
 
 # 👨‍🎓About
 
-I am a Junior student in the Division of Automation at South China University of Technology and I am a research intern under the supervision of [Prof. Yu Cheng](https://ych133.github.io/). My research interests focus on efficient learning and generative models in the fields of Computer Vision, Natural Language Processing.
+I am a Junior student in the Division of Automation at South China University of Technology. I previously worked as a research intern under the supervision of [Prof. Yu Cheng](https://ych133.github.io/). My research interests focus on Generative Multimodal Model, 3D Vision, Robot.
+<!--
+My research interests focus on efficient learning and generative models in the fields of Computer Vision, Natural Language Processing.
+-->
 
-To study further, I am seeking an opportunity to intern at place I am interested in. If it does come, I will not waste it because I know it comes not easy. Besides, I also enjoy hiking, jogging and playing football a lot.
+To study further, I am actively seeking an opportunity to intern at place I am interested in. If it does come, I will not waste it because I know it comes not easy. Besides, I also enjoy hiking, jogging and playing football a lot.
 
-Please find my CV [here](../files/Resume_Hao.pdf "Hao Zhou's CV"){:target="_blank"}.
+Please find my CV [here](../files/Resume.pdf "Hao Zhou's CV"){:target="_blank"}.
 
 
 # 🎓Education 
@@ -24,7 +27,7 @@ Please find my CV [here](../files/Resume_Hao.pdf "Hao Zhou's CV"){:target="_blan
 - 09/2022 ~ Present: <img src="../images/School of Automation.PNG" style="height: 1.1em"> [School of Automation Science and Engineering](https://www2.scut.edu.cn/automation/ "SCUT, AU"){:target="_blank"}, <img src="../images/xiaohui.PNG" style="height: 1.1em"> [South China University of Technology](https://www.scut.edu.cn/ "SCUT"){:target="_blank"} 
     - Junior in *Automation* 
     - GPA: 3.7/4.0
-    - Selected Course: Calculus I,II(4.0, 4.0)/4.0, Linear Algebra(4.0/4.0)
+    - Selected Course: Signal Analysis and Processing (4.0/4.0), Calculus (4.0, 4.0)/4.0, Linear Algebra (4.0/4.0) ......
 
 # News
 
@@ -40,9 +43,11 @@ Please find my CV [here](../files/Resume_Hao.pdf "Hao Zhou's CV"){:target="_blan
 # 🏅Honors and Awards
 
 - Bronze Prize, One Shot Industrial Defect Segmentation Challenge (ECCV2024)
-- Second Prize, 2023 China Undergraduate Engineering Practice And Innovation Ability Competition, Guangdong province
-- Open Source Award, 2023 Intramural Robot Competition 
+- Second Prize (Top 6\%), China Undergraduate Engineering Practice And Innovation Ability Competition
+- Distinction Grade, Summer School of National University of Singapore
+- Open Source Award (ranked 1/21 comprehensively), Intramural Robot Competition 
 - Second Prize, the 3rd Hunan Youth Creative Programming and Intelligent Design Competition
+- The First Prize, Hengyang Youth Robot Competition
 
 <head>
 <!-- Google tag (gtag.js) -->
