@@ -37,7 +37,7 @@ Please find my CV [here](../files/Resume.pdf "Hao Zhou's CV"){:target="_blank"}.
 <!--
 # 📃Publications
   Not yet :( \
-  But I am actively working on a project related to LLM, you can contact me free if you are interested :).
+  But I am actively working on a project related to Reasoning capability in the context of RAG :).
 -->
 
 # 🏅Honors and Awards
