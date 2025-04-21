@@ -12,14 +12,14 @@ redirect_from:
 
 # 👨‍🎓About
 
-I am a Junior student in the Division of Automation at South China University of Technology. I previously worked as a research intern under the supervision of [Prof. Yu Cheng](https://ych133.github.io/). My research interests focus on Generative Multimodal Model, 3D Vision, Robot.
+I am a Junior student in the Division of Automation at South China University of Technology. I previously worked as a research intern under the supervision of [Prof. Yu Cheng](https://ych133.github.io/). My research interests focus on Generative Multimodal Model, Efficiency, Robot.
 <!--
 My research interests focus on efficient learning and generative models in the fields of Computer Vision, Natural Language Processing.
 -->
 
 To study further, I am actively seeking an opportunity to intern at place I am interested in. If it does come, I will not waste it because I know it comes not easy. Besides, I also enjoy hiking, jogging and playing football a lot.
 
-Please find my CV [here](../files/Resume.pdf "Hao Zhou's CV"){:target="_blank"}.
+Please find my CV [here](../files/Resume_Hao.pdf "Hao Zhou's CV"){:target="_blank"}.
 
 
 # 🎓Education 
