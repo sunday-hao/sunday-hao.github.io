@@ -51,12 +51,12 @@ Please find my CV [here](../files/Resume_Hao.pdf "Hao Zhou's CV"){:target="_blan
 
 <head>
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-QK7P3J622K"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z9X8C2M3SS"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-QK7P3J622K');
+  gtag('config', 'G-Z9X8C2M3SS');
 </script>
 </head>

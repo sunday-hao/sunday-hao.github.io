@@ -129,12 +129,12 @@ author_profile: true
 
 <head>
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-QK7P3J622K"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z9X8C2M3SS"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-QK7P3J622K');
+  gtag('config', 'G-Z9X8C2M3SS');
 </script>
 </head>
