@@ -12,7 +12,7 @@ redirect_from:
 
 # 👨‍🎓About
 
-I am a Junior student in the Division of Automation at South China University of Technology. I previously worked as a research intern under the supervision of [Prof. Yu Cheng](https://ych133.github.io/). My research interests focus on Generative Multimodal Model, Efficiency, Robot.
+I am a Senior student in the Division of Automation at South China University of Technology. I previously worked as a research intern under the supervision of [Prof. Yu Cheng](https://ych133.github.io/). My research interests include efficient algorithms, LLM with search capability, and agent learning.
 <!--
 My research interests focus on efficient learning and generative models in the fields of Computer Vision, Natural Language Processing.
 -->
