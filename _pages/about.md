@@ -43,7 +43,7 @@ Please find my CV [here](../files/Resume_Hao.pdf "Hao Zhou's CV"){:target="_blan
 # 🏅Honors and Awards
 
 - Bronze Prize, One Shot Industrial Defect Segmentation Challenge (ECCV2024)
-- Second Prize (Top 6\%), China Undergraduate Engineering Practice And Innovation Ability Competition
+- Second Prize (Top 6%), China Undergraduate Engineering Practice And Innovation Ability Competition
 - Distinction Grade, Summer School of National University of Singapore
 - Open Source Award (ranked 1/21 comprehensively), Intramural Robot Competition 
 - Second Prize, the 3rd Hunan Youth Creative Programming and Intelligent Design Competition
